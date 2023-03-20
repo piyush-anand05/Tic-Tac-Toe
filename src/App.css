@@ -1,0 +1,20 @@
+.board-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.board-container {
+  margin: 10px;
+  min-width: 40vw ;
+ 
+  
+}
+
+.App {
+  display: flex;
+  min-height: 80vh;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
